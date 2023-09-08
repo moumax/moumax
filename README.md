@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.marcofoliov2.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/moumax/moumax/blob/main/banner.png" alt="my banner"></a>
+  <a href="https://www.marcofoliov2.vercel.app" target="_blank" rel="noreferrer"><img src="https://github.com/moumax/moumax/blob/main/banner1.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
